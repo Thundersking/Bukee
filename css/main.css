@@ -78,7 +78,7 @@ h3 {
   padding-right: 15px; }
 
 .page-main {
-  background-image: url(img/bg-main.png);
+  background-image: url(../img/bg-main.png);
   background-repeat: no-repeat;
   background-size: cover;
   color: #fff;
@@ -104,7 +104,7 @@ h3 {
     display: block;
     width: 137px;
     height: 28px;
-    background-image: url(img/logo.svg); }
+    background-image: url(../img/logo.svg); }
 
 /*burger menu*/
 .menu {
@@ -344,7 +344,7 @@ h3 {
   .block-book-demo {
     display: block;
     position: relative;
-    background-image: url(img/book.svg);
+    background-image: url(../img/book.svg);
     width: 447px;
     height: 643px;
     background-repeat: no-repeat;
@@ -727,7 +727,7 @@ h3 {
   .block-product-demo {
     border-radius: 6px;
     position: relative;
-    background: url(img/other-book2.svg) no-repeat;
+    background: url(../img/other-book2.svg) no-repeat;
     height: 409px;
     width: 277px;
     text-align: center;
@@ -1001,7 +1001,7 @@ h3 {
     display: block;
     width: 137px;
     height: 28px;
-    background-image: url(img/logo-footer.svg);
+    background-image: url(../img/logo-footer.svg);
     margin-bottom: 26px; }
   .block-footer p {
     letter-spacing: 0.63px;
@@ -1072,7 +1072,7 @@ h3 {
   .block-carousel-bq {
     position: absolute;
     display: block;
-    background-image: url(img/bq.png);
+    background-image: url(../img/bq.png);
     background-repeat: no-repeat;
     width: 48px;
     height: 42px;
