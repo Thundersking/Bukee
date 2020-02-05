@@ -1,0 +1,22 @@
+<svg id="book" xmlns="http://www.w3.org/2000/svg" width="446" height="639" viewBox="0 0 446 639">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #44444f;
+      }
+
+      .cls-2 {
+        fill: #65e496;
+        fill-rule: evenodd;
+      }
+
+      .cls-3 {
+        fill: #3d3d47;
+      }
+    </style>
+  </defs>
+  <rect id="book-2" data-name="book" class="cls-1" width="444.969" height="639" rx="5" ry="5"/>
+  <path id="Rectangle_10_copy" data-name="Rectangle 10 copy" class="cls-2" d="M378.051,538.046L543.47,372.655a30.747,30.747,0,0,1,43.486,43.479L421.537,581.526A30.747,30.747,0,1,1,378.051,538.046Z" transform="translate(-2 -2)"/>
+  <path id="Rectangle_10_copy_2" data-name="Rectangle 10 copy 2" class="cls-2" d="M297.258,492.231L462.677,326.84a30.747,30.747,0,0,1,43.486,43.479L340.745,535.71A30.747,30.747,0,1,1,297.258,492.231Z" transform="translate(-2 -2)"/>
+  <rect class="cls-3" width="62.719" height="639"/>
+</svg>
